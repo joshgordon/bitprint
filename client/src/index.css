@@ -166,3 +166,16 @@ input[type='file'] {
   margin-left: -10px;
   width: calc(100% + 1000px);
 }
+
+.item-wrapper {
+  display: flex;
+  align-content: space-between;
+}
+
+.item-data {
+  width: 100%;
+}
+
+.item-qr {
+  align-self: flex-end;
+}

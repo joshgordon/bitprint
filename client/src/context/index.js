@@ -13,7 +13,8 @@ export const initialContext = {
     password: true,
     totp: true,
     notes: true,
-    fields: true
+    fields: true,
+    qrcodes: true
   },
   error: null,
   file: {

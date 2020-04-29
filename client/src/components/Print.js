@@ -105,13 +105,10 @@ export default class Print extends Component {
               )}
               {data.items.map((item, index) => {
                 let { fields, folderId, login, name, notes, type } = item;
-                console.log(item);
                 return (
                   type === 1 && (
                     <li
                       className={classNames({
-                        hidden:
-                          (data.folders.length && !foldersToPrint.includes(folderId)) || false,
                         'bg-white border border-gray-400 rounded mt-4 break-words shadow-md': true
                       })}
                       key={index}
@@ -131,7 +128,7 @@ export default class Print extends Component {
                       </div>
                       {login && (
                         <div className="font-mono item-wrapper">
-                          <div class="item-data">
+                          <div className="item-data">
                             {login.username && (
                               <div
                                 className={classNames({
@@ -195,7 +192,7 @@ export default class Print extends Component {
                           <div
                             className={classNames('item-qr', { hidden: !dataToPrint['qrcodes'] })}
                           >
-                            <QRCode value={JSON.stringify(item)} size={200} renderAs="svg" />
+                            <QRCode value={JSON.stringify(item)} size={150} renderAs="svg" />
                           </div>
                         </div>
                       )}

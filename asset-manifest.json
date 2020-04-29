@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/bitprint/static/js/main.b42d60cb.chunk.js",
-    "main.js.map": "/bitprint/static/js/main.b42d60cb.chunk.js.map",
+    "main.js": "/bitprint/static/js/main.a919e9d3.chunk.js",
+    "main.js.map": "/bitprint/static/js/main.a919e9d3.chunk.js.map",
     "runtime-main.js": "/bitprint/static/js/runtime-main.c6d86a82.js",
     "runtime-main.js.map": "/bitprint/static/js/runtime-main.c6d86a82.js.map",
     "static/js/2.a1226985.chunk.js": "/bitprint/static/js/2.a1226985.chunk.js",
     "static/js/2.a1226985.chunk.js.map": "/bitprint/static/js/2.a1226985.chunk.js.map",
     "index.html": "/bitprint/index.html",
-    "precache-manifest.cf206a0212315b4124e8c411126bf6b8.js": "/bitprint/precache-manifest.cf206a0212315b4124e8c411126bf6b8.js",
+    "precache-manifest.b25d9d9b837ab21bbe67c8f2ee911829.js": "/bitprint/precache-manifest.b25d9d9b837ab21bbe67c8f2ee911829.js",
     "service-worker.js": "/bitprint/service-worker.js",
     "static/media/arrow.653d939e.svg": "/bitprint/static/media/arrow.653d939e.svg",
     "static/media/exclamation-circle.52dd6a0d.svg": "/bitprint/static/media/exclamation-circle.52dd6a0d.svg",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.c6d86a82.js",
     "static/js/2.a1226985.chunk.js",
-    "static/js/main.b42d60cb.chunk.js"
+    "static/js/main.a919e9d3.chunk.js"
   ]
 }

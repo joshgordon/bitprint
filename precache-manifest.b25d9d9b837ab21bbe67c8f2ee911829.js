@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5539e2f083c0cbf9f40b01553bf298b9",
+    "revision": "47209bea298df15cbcca52f54bdc1564",
     "url": "/bitprint/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bitprint/static/js/2.a1226985.chunk.js"
   },
   {
-    "revision": "3905232bb555f0ef3006",
-    "url": "/bitprint/static/js/main.b42d60cb.chunk.js"
+    "revision": "9e6a37dbba62be43cead",
+    "url": "/bitprint/static/js/main.a919e9d3.chunk.js"
   },
   {
     "revision": "3b6be0ef5decaa09e62e",

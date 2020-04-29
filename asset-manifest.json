@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.16089cb0.chunk.js",
+    "main.js.map": "/static/js/main.16089cb0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11bc70d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11bc70d3.js.map",
+    "static/js/2.a1226985.chunk.js": "/static/js/2.a1226985.chunk.js",
+    "static/js/2.a1226985.chunk.js.map": "/static/js/2.a1226985.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.08dc88e095aaedc91efcf43b8c2977c6.js": "/precache-manifest.08dc88e095aaedc91efcf43b8c2977c6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/arrow.653d939e.svg": "/static/media/arrow.653d939e.svg",
+    "static/media/exclamation-circle.52dd6a0d.svg": "/static/media/exclamation-circle.52dd6a0d.svg",
+    "static/media/file-import.3e6f5ba3.svg": "/static/media/file-import.3e6f5ba3.svg",
+    "static/media/frown-open.ce8f111f.svg": "/static/media/frown-open.ce8f111f.svg",
+    "static/media/print.1bc90693.svg": "/static/media/print.1bc90693.svg",
+    "static/media/step-1.png": "/static/media/step-1.9b7b9251.png",
+    "static/media/step-2.png": "/static/media/step-2.b8adb2d2.png",
+    "static/media/step-3.png": "/static/media/step-3.dda519a5.png",
+    "static/media/trash.a3e4c2f7.svg": "/static/media/trash.a3e4c2f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11bc70d3.js",
+    "static/js/2.a1226985.chunk.js",
+    "static/js/main.16089cb0.chunk.js"
+  ]
+}
